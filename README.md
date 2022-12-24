@@ -70,8 +70,6 @@ Leaderboard is a web app that assists in the creation of a working version of th
   </ul>
 </details>
 
-<details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
